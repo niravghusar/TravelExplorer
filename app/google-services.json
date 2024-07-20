@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "6170355187",
+    "project_id": "travelexplore-90630",
+    "storage_bucket": "travelexplore-90630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6170355187:android:f6389a1e7888d79854de86",
+        "android_client_info": {
+          "package_name": "com.example.TravelExplore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6170355187-26bm3ene1tc0r2ugv8mis5paosf7eo8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Sw3ySigvFQ4Yhdn0hVlCJ4iT2DBiGY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6170355187-26bm3ene1tc0r2ugv8mis5paosf7eo8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6170355187:android:86f7ee39f057eb7d54de86",
+        "android_client_info": {
+          "package_name": "com.example.cityguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6170355187-26bm3ene1tc0r2ugv8mis5paosf7eo8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Sw3ySigvFQ4Yhdn0hVlCJ4iT2DBiGY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6170355187-26bm3ene1tc0r2ugv8mis5paosf7eo8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
